@@ -1,2 +1,2 @@
 # Unity-Terrain-Generator
- Unity Terrain Generator Script
+ A simple Unity terrain generator script
